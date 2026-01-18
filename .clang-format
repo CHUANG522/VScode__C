@@ -1,0 +1,20 @@
+# 基础风格（最接近 Linux 内核风格）
+BasedOnStyle: GNU
+
+# 缩进与换行
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 80
+BreakBeforeBraces: Linux
+AllowShortIfStatementsOnASingleLine: false
+
+# 空格与对齐
+AlignAfterOpenBracket: Align
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+SpaceBeforeParens: ControlStatements
+
+# 其他优化
+PointerAlignment: Right
+SortIncludes: true

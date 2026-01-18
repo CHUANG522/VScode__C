@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZhuanZ\\Desktop\\VScode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ZhuanZ\\Desktop\\VScode\\exercise  (10) .c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exercise  (10) .c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ZhuanZ\\Desktop\\VScode\\dynamic_memory__18.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dynamic_memory__18.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ZhuanZ\\Desktop\\VScode\\exercise.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exercise.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exercise  (10) .c",
+              "DocumentMoniker": "C:\\Users\\ZhuanZ\\Desktop\\VScode\\exercise  (10) .c",
+              "RelativeDocumentMoniker": "exercise  (10) .c",
+              "ToolTip": "C:\\Users\\ZhuanZ\\Desktop\\VScode\\exercise  (10) .c",
+              "RelativeToolTip": "exercise  (10) .c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-18T03:16:31.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dynamic_memory__18.c",
+              "DocumentMoniker": "C:\\Users\\ZhuanZ\\Desktop\\VScode\\dynamic_memory__18.c",
+              "RelativeDocumentMoniker": "dynamic_memory__18.c",
+              "ToolTip": "C:\\Users\\ZhuanZ\\Desktop\\VScode\\dynamic_memory__18.c",
+              "RelativeToolTip": "dynamic_memory__18.c",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-18T03:11:11.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exercise.c",
+              "DocumentMoniker": "C:\\Users\\ZhuanZ\\Desktop\\VScode\\exercise.c",
+              "RelativeDocumentMoniker": "exercise.c",
+              "ToolTip": "C:\\Users\\ZhuanZ\\Desktop\\VScode\\exercise.c",
+              "RelativeToolTip": "exercise.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-18T03:03:46.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
