@@ -7,7 +7,10 @@
 int main(void) {
 
 	int *p = NULL; // 第一步创建指针并使指针指空
-	printf("%p \n", p);
+	   
+	   
+	   
+	    printf("%p \n", p);
 	//	int arr[] = {0};
 	int arr_len = 20; // 第二步，初步确定数组长度，以后可以随便修改
 	p = (int *)malloc(
