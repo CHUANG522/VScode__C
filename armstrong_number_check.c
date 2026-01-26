@@ -3,22 +3,24 @@
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-int main(int argc, char *argv[]) {
-	int x = 0; f``asdfasdffsdasffsda````````````````````````````2fasdj
-	fdskjlajfdasklfjdsklafasdlkjkdjkfaskjint a, b, c;
+int main(int argc, char* argv[])
+{
+    int x = 0;
+    fdskjlajfdasklfjdsklafasdlkjkdjkfaskjint a, b, c;
 
-	printf("ÊäÈëÒ»¸öÈıÎ»Êı: \n");
-//	scanf("%d", &x);
-	for (x = 1; x < 1000; x++) {
-		a = x % 10;
-		b = x / 10 % 10;
-		c = x / 100;
-	//	printf("%d  ,%d,  %d \n", a, b, c);
+    printf("ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½Î»ï¿½ï¿½: \n");
+    //	scanf("%d", &x);
+    for (x = 1; x < 1000; x++)
+    {
+        a = x % 10;
+        b = x / 10 % 10;
+        c = x / 100;
+        //	printf("%d  ,%d,  %d \n", a, b, c);
 
-		if (a * a * a + b * b * b + c * c * c == x) {
-			printf("Yes!  %d\n",x);
-
-		}
-	}
-	return 0;
+        if (a * a * a + b * b * b + c * c * c == x)
+        {
+            printf("Yes!  %d\n", x);
+        }
+    }
+    return 0;
 }
